@@ -8,4 +8,4 @@ training
 3.python label.py
 python train.py
 python predict.py
-012.png 012.png_predict.jpg
+
