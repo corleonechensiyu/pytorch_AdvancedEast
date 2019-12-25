@@ -9,5 +9,5 @@ pytorch实现AdvancedEast+mobilenetv3
 python train.py
 python predict.py
 图片:
-![demo](https://github.com/corleonechensiyu/pytorch_AdvancedEast/012.png)
+![demo](https://github.com/corleonechensiyu/pytorch_AdvancedEast/blob/master/012.png)
 
